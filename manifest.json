@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "my GPA is 4.0",
+    "page_action": {
+        "default_icon": {
+            "38": "favicon38.png"
+        }
+    },
+    "icons":{
+        "48":"favicon48.png"
+    },
+    "version": "0.9",
+    "content_scripts":[{
+        "matches": ["https://*/*"],
+        "js": ["jquery.min.js","chGPA.js","chABCD2S.js","chCourse.js"]
+    }]
+}
