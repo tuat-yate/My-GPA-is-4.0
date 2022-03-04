@@ -13,8 +13,9 @@ My GPA is 4.0
 ```git clone https://github.com/tuat-yate/My-GPA-is-4.0```  
 or  
 google drive(@st.tuat.ac.jp only)➔[https://drive.google.com/open?id=1Xb4Z9gw1R4IHKvhHFZOjFe-k3Iv3D694](https://drive.google.com/open?id=1Xb4Z9gw1R4IHKvhHFZOjFe-k3Iv3D694)
+google driveでダウンロードする場合にはフォルダごとダウンロードしてください．
 
-1. [chrome://extensions/](hrome://extensions/)にアクセス．
+1. [chrome://extensions/](chrome://extensions/)にアクセス．
 1. 「デベロッパーモード」をオンにする．
 1. 「パッケージ化されていない拡張機能を読み込む」をクリック．
 1. clone/downloadしたフォルダを指定．
